@@ -1,0 +1,32 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;    
+}
+
+body {
+ height: 100vh;
+
+}
+
+header {
+    height: 10vh;
+    background-color: aqua;
+}
+
+
+nav{
+    background-color: blue;
+}
+
+main{
+    height: 75vh;
+    background-color: bisque;
+}
+
+aside{
+    background-color: blueviolet;
+}
+footer{
+    height: 15vh;
+}
